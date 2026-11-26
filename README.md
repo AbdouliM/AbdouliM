@@ -12,13 +12,10 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,html,css,linux,mysql,docker,git,react,angular,spring,fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,html,css,linux,mysql,docker,git,angular,spring,fastapi,nodejs" />
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbdouliM/AbdouliM/main/snake-custom.svg" width="100%"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
