@@ -16,8 +16,6 @@
 </p>
 
 <br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AbdouliM/AbdouliM/main/terminal.svg" width="100%"/>
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" width="100%"/>
